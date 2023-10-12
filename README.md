@@ -45,9 +45,11 @@ their tickets.
 
 ## SEQUENCE DIAGRAM:
 
+![railway reservation 5](https://github.com/22008686/Lab-3-Railway-Reservation/assets/118916413/3f2c9474-45f4-4de4-bb39-8d58ee54ea22)
 
-## PACKAGE DIAGRAM:
+## STATE DIAGRAM:
 
+![railway reservation state](https://github.com/22008686/Lab-3-Railway-Reservation/assets/118916413/b828b411-cc43-4039-80ee-287e48154b77)
 
 ### RESULT:
 
