@@ -33,13 +33,18 @@ their tickets.
 
 ## CLASS DIAGRAM:
 
+![railway reservation 2](https://github.com/22008686/Lab-3-Railway-Reservation/assets/118916413/caa8243a-9be2-45de-a589-45c05cd351f0)
+
 ## ACTIVITY DIAGRAM:
 
 ![railway reservation 3](https://github.com/22008686/Lab-3-Railway-Reservation/assets/118916413/41375922-ffb5-45f8-ae06-e4e62611b459)
 
 ## COMMUNICATION DIAGRAM:
 
+![railway reservation 4](https://github.com/22008686/Lab-3-Railway-Reservation/assets/118916413/4bbc1d10-0961-4656-91d7-17f18d896a6c)
+
 ## SEQUENCE DIAGRAM:
+
 
 ## PACKAGE DIAGRAM:
 
